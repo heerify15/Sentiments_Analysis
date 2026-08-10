@@ -54,9 +54,6 @@ Positive / Negative
 ```text
 Sentiment-Analysis-RNN/
 │
-├── Dataset/
-│   └── IMDB Dataset.csv
-│
 ├── Notebook/
 │   └── RNN_Sentiments_Analysis.ipynb
 │
